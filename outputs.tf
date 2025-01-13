@@ -6,7 +6,7 @@ output "scope" {
   value = commercetools_api_client.this.scope
 }
 
-    output "client_id" {
+output "client_id" {
   value = commercetools_api_client.this.id
 }
 
